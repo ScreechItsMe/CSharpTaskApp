@@ -1,2 +1,4 @@
 # CSharpTaskApp
-Made my first "app", which is a task manager written in c#. Hope y'all will like it.
+I just made my first task manager that lets a user add,view tasks as well as properly exit the application.
+I hope y'all will like it or find it "bearable" enough.
+Enjoy!
